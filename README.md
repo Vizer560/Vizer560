@@ -10,3 +10,8 @@
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-121212?style=for-the-badge&logo=Telegram&logoColor=#1C93CF)](https://t.me/Vizer560)
 [![Discord](https://img.shields.io/badge/-Discord-121212?style=for-the-badge&logo=Discord)](https://discordapp.com/users/299965265834278913)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vizer560&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
