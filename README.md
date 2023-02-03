@@ -6,6 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-121212?style=for-the-badge&logo=JavaScript&logoColor=EFD81D)
 ![HTML](https://img.shields.io/badge/-HTML-121212?style=for-the-badge&logo=HTML5&logoColor=D84924)
 ![CSS](https://img.shields.io/badge/-CSS-121212?style=for-the-badge&logo=CSS3&logoColor=254BDD)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-121212?style=for-the-badge&logo=Bootstrap)
+
 
 ### 📞 Connect with me
 [![Telegram](https://img.shields.io/badge/-Telegram-121212?style=for-the-badge&logo=Telegram&logoColor=#1C93CF)](https://t.me/Vizer560)
